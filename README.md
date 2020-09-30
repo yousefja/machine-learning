@@ -4,4 +4,4 @@ This repository contains projects guided by content from Dataquest's Data Scient
 
 1. Predicting Car Prices (Regression)
         
-skills and concepts used:
+        skills and concepts used:
