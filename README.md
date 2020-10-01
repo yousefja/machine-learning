@@ -5,7 +5,7 @@ This repository contains projects guided by content from Dataquest's Data Scient
 1. Predicting Car Prices (Regression)
         
         skills and concepts used:
-                a. Regression (Using KNN Regressor)
+                a. Regression Modelling (Using KNN Regressor)
                 b. Hyperparameter Tuning
                 c. Feature Selection
                 d. Error Analysis
