@@ -17,3 +17,13 @@ This repository contains projects guided by content from Dataquest's Data Scient
                 b. Feature Engineering
                 c. Time Series Data
                 
+3. **Predicting Titanic Survival (Classification / Logistic Regression)**
+        
+        skills and concepts used:
+                a. Data Analysis
+                b. Pivot Tables
+                c. Feature Engineering 
+                d. Data Wrangling (Mapping, Binning, Encoding features)
+                e. Recursive Feature Elimination
+                f. Model Selection and Hyperparam Tuning (GridCV)
+                
